@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Condensed+One&weight=800&size=25&duration=6000&pause=1000&color=C38D1B&width=450&lines=the+land+of+wild+boar)](https://git.io/typing-svg)
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 정컴교사 김진하 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 정컴교사 김선생 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 정보,컴퓨터 가르치는 중고등 예비교사 👨‍🏫</li><li> 전 세계를 여행하고픈 여행가 ✈️</li><li> 삼성 라이온즈 3대째 팬 🦁</li> </div> 
     </div>
     <div align= "center">
